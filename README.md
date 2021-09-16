@@ -20,6 +20,7 @@ Project Totals:
 
 Code
 ---------------------------------------------
-- The codebase works only for the specific MATLAB data structures used in this project.
-- The code evolved as I performed exploratory calculations and experimented with different models to estimate neural drive to the calf muscles.
+- The codebase works only for the specific MATLAB data structures used in this project, for which metrics were calculated and added as the project progressed.
+- The custom functions and calculations evolved as I performed exploratory analyses and experimented with different models to estimate neural drive to the calf muscles from the cumulative activity of the motor neurons in individual muscles as well as total motor unit activity in the three main calf muscles.
 - The resultant manuscript (to be published soon) only utilized only a small portion of the calculations and techniques that I used to explore the characteristics of neural drive to the calf muscles.
+- Some quick scripts are included which were used to visualize the data at various stages of the project to explore the data, verify alignment of different data sources, cross-validate new techniques, and check results against previously published works.
